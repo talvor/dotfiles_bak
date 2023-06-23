@@ -1,6 +1,4 @@
 # Display time
 SPACESHIP_TIME_SHOW=true
 
-# Display username always
-SPACESHIP_USER_SHOW=always
-
+SPACESHIP_NODE_SHOW=true
